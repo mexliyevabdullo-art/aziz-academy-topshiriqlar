@@ -1,0 +1,2 @@
+
+print("Assalomu alaykum")
