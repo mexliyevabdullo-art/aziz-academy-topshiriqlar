@@ -1,0 +1,1 @@
+print("Tug'ilgan sana:", "-".join(input().split()))
