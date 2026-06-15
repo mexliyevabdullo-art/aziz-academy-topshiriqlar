@@ -1,0 +1,1 @@
+i,a=input().split(",");print("Name:" ,i);print("Age:" ,a)
