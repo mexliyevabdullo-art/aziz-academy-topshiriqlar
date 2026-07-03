@@ -1,2 +1,2 @@
-ism = "AZIZ"
+ism = "Aziz"
 print("Ism:", ism)
