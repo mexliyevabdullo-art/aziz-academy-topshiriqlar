@@ -1,4 +1,4 @@
-talaba_ismi = "ALI Valiyev"
+talaba_ismi = "Ali Valiyev"
 tugilgan_yili = "2005"
 shahar_nomi = "Toshkent"
 print("Talaba:", talaba_ismi)
