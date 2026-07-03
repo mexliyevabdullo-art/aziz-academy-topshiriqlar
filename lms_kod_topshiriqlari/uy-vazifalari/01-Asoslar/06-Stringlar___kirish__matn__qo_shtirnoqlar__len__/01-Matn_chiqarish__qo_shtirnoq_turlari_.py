@@ -1,2 +1,2 @@
-print("Sslom, dunyo!")
+print("Salom, dunyo!")
 print('Python tili')
