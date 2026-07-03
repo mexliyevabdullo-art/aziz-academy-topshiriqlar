@@ -1,3 +1,3 @@
 print("+----------+")
-print("| PYTHON |")
+print("|  PYTHON  |")
 print("+----------+")
