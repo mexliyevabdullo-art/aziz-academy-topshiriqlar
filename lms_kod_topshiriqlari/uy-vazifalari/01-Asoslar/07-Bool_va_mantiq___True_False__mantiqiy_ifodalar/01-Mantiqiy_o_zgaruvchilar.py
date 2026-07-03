@@ -1,4 +1,4 @@
 faol = True
 tasdiqlangan = False
-print("Faol:", tasdiqlangan)
+print("Faol:", faol)
 print("Tasdiqlangan:", tasdiqlangan)
