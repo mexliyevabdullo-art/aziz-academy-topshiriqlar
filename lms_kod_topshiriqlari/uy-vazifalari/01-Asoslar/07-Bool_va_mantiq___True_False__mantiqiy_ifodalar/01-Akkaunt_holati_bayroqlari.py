@@ -1,6 +1,6 @@
-royhatdan_otgan = True
+royxatdan_otgan = True
 email_tasdiqlangan = False
 bloklangan = False
-print("Ro'yhatdan o'tgan:", royhatdan_otgan)
+print("Ro'yxatdan o'tgan:", royxatdan_otgan)
 print("Email tasdiqlangan:", email_tasdiqlangan)
 print("Bloklangan:", bloklangan)
