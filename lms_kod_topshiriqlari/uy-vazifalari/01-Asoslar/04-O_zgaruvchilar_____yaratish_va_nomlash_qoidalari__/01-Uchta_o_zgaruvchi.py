@@ -1,4 +1,4 @@
-ism = "AZIZ"
+ism = "Aziz"
 kurs = "Python"
 modul = "Asoslar"
 print("Ism:", ism)
