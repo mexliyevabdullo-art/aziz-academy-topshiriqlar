@@ -1,0 +1,1 @@
+print('salom' in input().lower())
