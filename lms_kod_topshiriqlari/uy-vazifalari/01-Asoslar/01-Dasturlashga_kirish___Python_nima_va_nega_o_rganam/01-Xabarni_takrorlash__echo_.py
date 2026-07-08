@@ -1,2 +1,1 @@
-ism = input()
-print(ism)
+print(input())
