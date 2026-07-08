@@ -1,8 +1,8 @@
-mahsulot1 = "Non" 
+mahsulot1 = "Non"
 narx1 = 4500
-mahsulot2 = "Sut"
+maxsulot2 = "Sut"
 narx2 = 12.5
 print("=== CHEK ===")
 print(mahsulot1, "-", narx1)
-print(mahsulot2, "-", narx2)
+print(maxsulot2, "-", narx2)
 print("Rahmat!")
