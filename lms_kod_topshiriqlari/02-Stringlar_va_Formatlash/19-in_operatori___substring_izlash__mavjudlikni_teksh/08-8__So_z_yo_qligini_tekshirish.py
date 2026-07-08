@@ -1,0 +1,1 @@
+print('xato' not in input())
