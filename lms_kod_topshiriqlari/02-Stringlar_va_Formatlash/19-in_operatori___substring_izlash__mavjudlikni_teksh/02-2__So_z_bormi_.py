@@ -1,0 +1,1 @@
+print('kod' in input())
