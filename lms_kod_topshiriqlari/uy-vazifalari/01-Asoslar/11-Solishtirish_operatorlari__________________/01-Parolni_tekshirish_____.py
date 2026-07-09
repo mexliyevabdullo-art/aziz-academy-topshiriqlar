@@ -1,2 +1,2 @@
 parol = input()
-print((parol == "python123"))
+print(parol == "python123")
