@@ -1,4 +1,7 @@
 n = int(input())
-print(n // 3600)
-print((n % 3600) // 60)
-print(n % 60)
+soat = n // 3600
+minut = (n % 3600) // 60
+soniya = n % 60
+print(soat)
+print(minut)
+print(soniya)
