@@ -1,0 +1,5 @@
+ism = input()
+tozalangan = ism.strip()
+chiroyli = tozalangan.title()
+print(chiroyli)
+print(chiroyli[0])
