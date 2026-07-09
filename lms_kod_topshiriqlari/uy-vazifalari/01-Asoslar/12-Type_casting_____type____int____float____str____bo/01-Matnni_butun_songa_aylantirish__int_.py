@@ -1,2 +1,2 @@
-n = int(input())
-print(n + 10)
+son = int(input())
+print(son + 10)
