@@ -1,0 +1,6 @@
+s = input()
+s = s.replace(',', ' ')
+sozlar = s.split()
+toza = ' '.join(sozlar)
+print(toza)
+print(len(sozlar))
