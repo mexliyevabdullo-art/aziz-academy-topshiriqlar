@@ -1,3 +1,2 @@
 son = int(input())
-natija = son * 3
-print(natija)
+print(son * 3)
