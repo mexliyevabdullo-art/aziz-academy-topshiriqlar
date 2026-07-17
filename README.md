@@ -4,38 +4,35 @@
 
 ## 📊 Umumiy progress
 
-`████░░░░░░░░░░░░░░░░` **19%**  (34/179 mavzu)
+`█░░░░░░░░░░░░░░░░░░░` **4%**  (8/179 mavzu)
 
-- ⭐ Jami ball: **50479**
-- 📤 GitHubga yuborilgan topshiriqlar: **792**
+- ⭐ Jami ball: **52611**
+- 📤 GitHubga yuborilgan topshiriqlar: **793**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 4 — Ma'lumot Tuzilmalari** → **List — yaratish va index ⭐ — ro'yxat asoslari**
+**MODUL 1 — Asoslar** → **input() bilan ishlash ⭐ — foydalanuvchidan ma'lumot olish**
 
-➡️ Keyingi mavzu: *List metodlari — append, insert, remove, pop, sort, reverse*
+➡️ Keyingi mavzu: *Arifmetik operatorlar — + - * / // % ** va prioritet*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ List — yaratish va index ⭐ — ro'yxat asoslari  ← yetgan joyingiz
-- ⬜ List metodlari — append, insert, remove, pop, sort, reverse
-- ⬜ List slicing va copy — list(), [:], shallow copy
-- ⬜ 🛠 List bilan masalalar — filtrlash, transformatsiya
-- ⬜ Tuple — o'zgarmas tuzilma, qachon kerak
-- ⬜ Tuple unpacking ⭐ — a, b = b, a
-- ⬜ Dict — asoslar ⭐ — key/value, qiymatga murojaat
-- ⬜ Dict metodlari — keys(), values(), items(), get()
-- ⬜ 🛠 Dict bilan masalalar — lug'atlar, sozlamalar, hisoblagich
-- ⬜ Set — asoslar: yaratilish, in, len, takrorlanmaslik
-- ⬜ Set operatsiyalari — union, intersection, difference
-- ⬜ List of dicts ⭐ — o'quvchilar/mahsulotlar ro'yxati
-- ⬜ Nested structures — dict ichida list, list ichida dict
-- ⬜ Ma'lumotni tanlash ⭐ — list vs dict vs set
-- ⬜ Big O — kirish ⭐ — nega dict tez, list sekin?
-- ⬜ 🛠 Loyiha: Statistik hisoblagich — o'rtacha, mediana, moda
-- ⬜ 🛠 Loyiha: Konsol jadval — ma'lumotni jadval ko'rinishida
-- ⬜ Mustahkamlash 🔁 — barcha tuzilmalar bo'yicha mashqlar
+- ✅ Dasturlashga kirish — Python nima va nega o'rganamiz
+- ✅ O'rnatish va muhit — Python, interpreter, IDE sozlash
+- ✅ Birinchi dastur ⭐ — print() va kommentlar
+- ✅ O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)
+- ✅ Sonlar: int va float — butun va kasr sonlar
+- ✅ Stringlar — kirish: matn, qo'shtirnoqlar, len()
+- ✅ Bool va mantiq — True/False, mantiqiy ifodalar
+- ✅ input() bilan ishlash ⭐ — foydalanuvchidan ma'lumot olish  ← yetgan joyingiz
+- ⬜ Arifmetik operatorlar — + - * / // % ** va prioritet
+- ⬜ Mantiqiy operatorlar — and, or, not
+- ⬜ Solishtirish operatorlari — == != > < >= <=
+- ⬜ Type casting ⭐ — type(), int(), float(), str(), bool()
+- ⬜ 🛠 Mini-loyiha: Kalkulyator — ikki son ustida amallar (CLI)
+- ⬜ Kod madaniyati: PEP8 — bo'sh joy, nomlash, o'qiluvchanlik
+- ⬜ Xatolik turlari 🔁 — syntax vs runtime, xatoni o'qish
 
 </details>
 
@@ -43,10 +40,10 @@
 
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
-| 1 | ✅ Asoslar | `██████████` 100% | 15/15 |
-| 2 | 🔸 Stringlar va Formatlash | `████░░░░░░` 40% | 4/10 |
-| 3 | 🔸 Shartlar va Sikllar | `█████████░` 87% | 13/15 |
-| 4 | 🔸 Ma'lumot Tuzilmalari | `█░░░░░░░░░` 11% | 2/18 |
+| 1 | 🔸 Asoslar | `█████░░░░░` 53% | 8/15 |
+| 2 | ⬜ Stringlar va Formatlash | `░░░░░░░░░░` 0% | 0/10 |
+| 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
+| 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
 | 5 | ⬜ Comprehensions | `░░░░░░░░░░` 0% | 0/5 |
 | 6 | ⬜ Funksiyalar | `░░░░░░░░░░` 0% | 0/12 |
 | 7 | ⬜ Modullar va Fayllar | `░░░░░░░░░░` 0% | 0/15 |
@@ -66,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-12 07:30</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-17 04:49</sub>
