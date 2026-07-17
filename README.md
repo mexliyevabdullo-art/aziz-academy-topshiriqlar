@@ -1,4 +1,4 @@
-# 🎓 Aziz Academy — MEXLIYEV ABDULLOX
+# 🎓 Aziz Academy — Mexliyev Abdullox
 
 **Kurs:** Dasturlash / IT
 
@@ -6,8 +6,8 @@
 
 `█░░░░░░░░░░░░░░░░░░░` **4%**  (8/179 mavzu)
 
-- ⭐ Jami ball: **54316**
-- 📤 GitHubga yuborilgan topshiriqlar: **804**
+- ⭐ Jami ball: **54471**
+- 📤 GitHubga yuborilgan topshiriqlar: **805**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-17 05:39</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-17 14:17</sub>
