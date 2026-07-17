@@ -4,16 +4,16 @@
 
 ## 📊 Umumiy progress
 
-`█░░░░░░░░░░░░░░░░░░░` **4%**  (8/179 mavzu)
+`█░░░░░░░░░░░░░░░░░░░` **6%**  (10/179 mavzu)
 
-- ⭐ Jami ball: **55036**
-- 📤 GitHubga yuborilgan topshiriqlar: **808**
+- ⭐ Jami ball: **55501**
+- 📤 GitHubga yuborilgan topshiriqlar: **809**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 1 — Asoslar** → **input() bilan ishlash ⭐ — foydalanuvchidan ma'lumot olish**
+**MODUL 1 — Asoslar** → **Mantiqiy operatorlar — and, or, not**
 
-➡️ Keyingi mavzu: *Arifmetik operatorlar — + - * / // % ** va prioritet*
+➡️ Keyingi mavzu: *Solishtirish operatorlari — == != > < >= <=*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -25,9 +25,9 @@
 - ✅ Sonlar: int va float — butun va kasr sonlar
 - ✅ Stringlar — kirish: matn, qo'shtirnoqlar, len()
 - ✅ Bool va mantiq — True/False, mantiqiy ifodalar
-- ✅ input() bilan ishlash ⭐ — foydalanuvchidan ma'lumot olish  ← yetgan joyingiz
-- ⬜ Arifmetik operatorlar — + - * / // % ** va prioritet
-- ⬜ Mantiqiy operatorlar — and, or, not
+- ✅ input() bilan ishlash ⭐ — foydalanuvchidan ma'lumot olish
+- ✅ Arifmetik operatorlar — + - * / // % ** va prioritet
+- ✅ Mantiqiy operatorlar — and, or, not  ← yetgan joyingiz
 - ⬜ Solishtirish operatorlari — == != > < >= <=
 - ⬜ Type casting ⭐ — type(), int(), float(), str(), bool()
 - ⬜ 🛠 Mini-loyiha: Kalkulyator — ikki son ustida amallar (CLI)
@@ -40,7 +40,7 @@
 
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
-| 1 | 🔸 Asoslar | `█████░░░░░` 53% | 8/15 |
+| 1 | 🔸 Asoslar | `███████░░░` 67% | 10/15 |
 | 2 | ⬜ Stringlar va Formatlash | `░░░░░░░░░░` 0% | 0/10 |
 | 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-17 14:29</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-17 17:18</sub>
