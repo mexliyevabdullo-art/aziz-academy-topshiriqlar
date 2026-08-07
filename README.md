@@ -6,20 +6,20 @@
 
 `█████░░░░░░░░░░░░░░░` **23%**  (42/179 mavzu)
 
-- ⭐ Jami ball: **81546**
-- 📤 GitHubga yuborilgan topshiriqlar: **939**
+- ⭐ Jami ball: **81701**
+- 📤 GitHubga yuborilgan topshiriqlar: **940**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 4 — Ma'lumot Tuzilmalari** → **List — yaratish va index ⭐ — ro'yxat asoslari**
+**MODUL 4 — Ma'lumot Tuzilmalari** → **List metodlari — append, insert, remove, pop, sort, reverse**
 
-➡️ Keyingi mavzu: *List metodlari — append, insert, remove, pop, sort, reverse*
+➡️ Keyingi mavzu: *List slicing va copy — list(), [:], shallow copy*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ List — yaratish va index ⭐ — ro'yxat asoslari  ← yetgan joyingiz
-- ⬜ List metodlari — append, insert, remove, pop, sort, reverse
+- ✅ List — yaratish va index ⭐ — ro'yxat asoslari
+- ✅ List metodlari — append, insert, remove, pop, sort, reverse  ← yetgan joyingiz
 - ⬜ List slicing va copy — list(), [:], shallow copy
 - ⬜ 🛠 List bilan masalalar — filtrlash, transformatsiya
 - ⬜ Tuple — o'zgarmas tuzilma, qachon kerak
@@ -66,4 +66,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-08-06 16:58</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-08-07 05:15</sub>
