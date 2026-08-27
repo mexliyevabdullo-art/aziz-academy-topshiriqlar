@@ -1,4 +1,4 @@
-ism = "Aziz"
+ism ="Aziz"
 familiya = "Karimov"
 kurs = "Python"
 daraja = "Boshlang'ich"
