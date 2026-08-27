@@ -1,4 +1,4 @@
 ism = input()
 shahar = input()
-print("Assalomu alaykum,", ism)
-print("Siz", shahar, "shahridan ekansiz.")
+print(f"Assalomu alaykum, {ism}")
+print(f"Siz {shahar} shahridan ekansiz.")
