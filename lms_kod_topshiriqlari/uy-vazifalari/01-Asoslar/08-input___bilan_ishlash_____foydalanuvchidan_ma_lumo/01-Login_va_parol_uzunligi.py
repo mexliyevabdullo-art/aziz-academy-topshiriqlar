@@ -1,4 +1,4 @@
 login = input()
 parol = input()
-print("Login:", login)
-print("Parol uzunligi:", len(parol))
+print(f"Login: {login}")
+print(f"Parol uzunligi: {len(parol)}")
