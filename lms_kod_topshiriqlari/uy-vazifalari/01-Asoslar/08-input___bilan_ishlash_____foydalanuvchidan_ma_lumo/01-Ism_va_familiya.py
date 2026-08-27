@@ -1,3 +1,3 @@
 ism = input()
 familiya = input()
-print("Ism-familiya:", ism, familiya)
+print(f"Ism-familiya: {ism} {familiya}")
