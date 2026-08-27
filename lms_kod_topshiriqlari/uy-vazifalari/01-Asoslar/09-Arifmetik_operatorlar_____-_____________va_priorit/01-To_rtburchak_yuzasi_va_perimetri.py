@@ -1,4 +1,6 @@
 eni = 5
 boyi = 3
-print("Yuza:", eni * boyi)
-print("Perimetr:", 2 * (eni + boyi))
+yuza = eni * boyi
+perimetr = 2 * (eni + boyi)
+print(f"Yuza: {yuza}")
+print(f"Perimetr: {perimetr}")
