@@ -1,0 +1,8 @@
+sonlar = list(map(int, input().split()))
+print(f"count: {len(sonlar)}")
+print(f"sum: {sum(sonlar)}")
+print(f"min: {min(sonlar)}")
+print(f"max: {max(sonlar)}")
+print(f"mean: {sum(sonlar) / len(sonlar):.2f}")
+print(f"evens: {sum(1 for x in sonlar if x % 2 == 0)}")
+print(f"odds: {sum(1 for x in sonlar if x % 2 != 0)}")
