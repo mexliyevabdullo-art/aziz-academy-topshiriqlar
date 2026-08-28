@@ -1,0 +1,7 @@
+sonlar = list(map(int, input().split()))
+positives_count = sum(1 for x in sonlar if x > 0)
+negatives_count = sum(1 for x in sonlar if x < 0)
+zeros_count = sum(1 for x in sonlar if x == 0)
+print(positives_count)
+print(negatives_count)
+print(zeros_count)
