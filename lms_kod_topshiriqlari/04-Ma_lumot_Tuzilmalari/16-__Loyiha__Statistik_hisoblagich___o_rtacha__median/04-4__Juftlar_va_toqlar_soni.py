@@ -1,0 +1,5 @@
+sonlar = list(map(int, input().split()))
+evens_count = sum(1 for x in sonlar if x % 2 == 0)
+odds_count = sum(1 for x in sonlar if x % 2 != 0)
+print(evens_count)
+print(odds_count)
