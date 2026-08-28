@@ -1,2 +1,2 @@
-son = int(input())
-print(bool(son))
+n = int(input())
+print(bool(n))
