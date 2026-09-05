@@ -1,3 +1,3 @@
-soz1 = input()
-soz2 = input()
-print(soz1.lower() == soz2.lower())
+s1 = input()
+s2 = input()
+print(s1.lower() == s2.lower())
