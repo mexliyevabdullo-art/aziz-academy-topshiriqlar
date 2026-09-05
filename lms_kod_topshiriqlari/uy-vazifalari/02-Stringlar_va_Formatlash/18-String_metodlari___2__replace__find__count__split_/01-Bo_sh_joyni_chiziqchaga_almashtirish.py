@@ -1,3 +1,2 @@
-matn = input()
-natija = matn.replace(" ", "-")
-print(natija)
+s = input()
+print(s.replace(" ", "-"))
