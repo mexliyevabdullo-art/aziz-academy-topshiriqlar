@@ -1,5 +1,3 @@
-ism = input()
-tozalangan = ism.strip()
-chiroyli = tozalangan.title()
-print(chiroyli)
-print(chiroyli[0])
+s = input().strip().title()
+print(s)
+print(s[0])
