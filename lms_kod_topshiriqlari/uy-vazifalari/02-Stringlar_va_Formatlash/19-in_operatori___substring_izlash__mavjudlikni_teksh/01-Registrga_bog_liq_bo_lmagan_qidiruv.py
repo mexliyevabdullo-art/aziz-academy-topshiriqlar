@@ -1,3 +1,3 @@
 matn = input()
 soz = input()
-print(soz.lower() in matn.lower())
+print(soz.lower()in matn.lower())
