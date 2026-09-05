@@ -1,2 +1,2 @@
 s = input()
-print('a' in s)
+print("a" in s)
