@@ -1,3 +1,3 @@
-matn = input()
+s = input()
 bolak = input()
-print(matn.find(bolak))
+print(s.find(bolak))
