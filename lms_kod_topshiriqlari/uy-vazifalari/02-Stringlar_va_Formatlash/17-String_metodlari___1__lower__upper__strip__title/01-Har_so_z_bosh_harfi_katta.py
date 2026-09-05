@@ -1,3 +1,2 @@
-gap = input()
-natija = gap.title()
-print(natija)
+s = input()
+print(s.title())
