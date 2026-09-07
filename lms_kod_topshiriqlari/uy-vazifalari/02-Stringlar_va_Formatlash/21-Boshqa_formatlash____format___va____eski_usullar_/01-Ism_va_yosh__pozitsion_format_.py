@@ -1,3 +1,3 @@
 ism = input()
 yosh = input()
-print("Ism: {}, Yosh: {}".format(ism, yosh))
+print("Ism: {0}, Yosh: {1}".format(ism, yosh))
