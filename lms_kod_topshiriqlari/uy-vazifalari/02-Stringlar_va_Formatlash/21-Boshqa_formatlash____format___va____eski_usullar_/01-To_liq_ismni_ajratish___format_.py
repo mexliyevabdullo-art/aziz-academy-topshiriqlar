@@ -1,3 +1,2 @@
-matn = input()
-ism, familiya = matn.split()
+ism, familiya = input().split()
 print("Familiya: {}, Ism: {}".format(familiya, ism))
