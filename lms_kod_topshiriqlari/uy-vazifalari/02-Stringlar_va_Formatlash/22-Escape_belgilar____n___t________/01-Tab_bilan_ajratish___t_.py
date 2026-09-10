@@ -1,3 +1,3 @@
-soz1 = input()
-soz2 = input()
-print(soz1 + "\t" + soz2)
+word1 = input()
+word2 = input()
+print(word1 + '\t' + word2)
