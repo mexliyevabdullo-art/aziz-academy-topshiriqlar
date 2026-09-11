@@ -1,3 +1,3 @@
-papka = input()
-fayl = input()
-print("C:\\" + papka + "\\" + fayl)
+folder = input().strip()
+file = input().strip()
+print(f"C:\\{folder}\\{file}")
