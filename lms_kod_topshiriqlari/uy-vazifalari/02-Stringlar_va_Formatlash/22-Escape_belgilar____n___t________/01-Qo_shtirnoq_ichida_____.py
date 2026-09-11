@@ -1,2 +1,2 @@
-soz = input()
-print(f"\"{soz}\"")
+word = input().strip()
+print(f'"{word}"')
