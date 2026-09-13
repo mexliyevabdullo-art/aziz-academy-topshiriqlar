@@ -1,4 +1,4 @@
-ism = input()
+name = input().strip()
 print(f"""=== KARTA ===
-Ism: {ism}
+Ism: {name}
 =============""")
