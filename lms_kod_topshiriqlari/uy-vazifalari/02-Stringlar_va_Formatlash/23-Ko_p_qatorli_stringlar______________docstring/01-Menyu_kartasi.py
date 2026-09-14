@@ -1,7 +1,4 @@
-taom1 = input()
-taom2 = input()
-taom3 = input()
-print(f"""--- MENYU ---
-1. {taom1}
-2. {taom2}
-3. {taom3}""")
+t1 = input()
+t2 = input()
+t3 = input()
+print(f"--- MENYU ---\n1. {t1}\n2. {t2}\n3. {t3}")
