@@ -1,3 +1,3 @@
-iqtisod = input()
-muallif = input()
-print(f"\"{iqtisod}\"\n\t- {muallif}")
+quote = input()
+author = input()
+print(f'"{quote}"\n\t- {author}')
