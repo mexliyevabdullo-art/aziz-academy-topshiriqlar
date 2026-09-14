@@ -1,6 +1,4 @@
-ism = input()
-yosh = input()
-kurs = input()
-print(f"""Ism: {ism}
-Yosh: {yosh}
-Kurs: {kurs}""")
+name = input()
+age = input()
+course = input()
+print(f"Ism: {name}\nYosh: {age}\nKurs: {course}")
