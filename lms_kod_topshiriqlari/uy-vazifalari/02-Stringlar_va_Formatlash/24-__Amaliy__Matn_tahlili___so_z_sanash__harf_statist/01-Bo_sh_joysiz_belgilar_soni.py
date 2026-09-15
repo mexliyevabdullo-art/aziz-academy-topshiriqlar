@@ -1,2 +1,1 @@
-matn = input()
-print(len(matn.replace(" ", "")))
+print(len(input().replace(" ", "")))
