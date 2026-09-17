@@ -1,2 +1,4 @@
 matn = input().lower()
-print(matn.count("a") + matn.count("e") + matn.count("i") + matn.count("o") + matn.count("u"))
+unilar = 'aeiou'
+natija = sum(matn.count(harf) for harf in unilar)
+print(natija)
