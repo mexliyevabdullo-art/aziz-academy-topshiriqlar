@@ -1,4 +1,6 @@
 matn = input()
 soz = input()
-print(matn.replace(soz, soz.upper()))
-print(matn.count(soz))
+yangi_matn = matn.replace(soz, soz.upper())
+soni = matn.split().count(soz)
+print(yangi_matn)
+print(soni)
