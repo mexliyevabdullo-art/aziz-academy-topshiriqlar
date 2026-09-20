@@ -5,5 +5,5 @@ if login == "admin":
         print("Xush kelibsiz")
     else:
         print("Parol xato")
-else: 
+else:        
     print("Login topilmadi")
