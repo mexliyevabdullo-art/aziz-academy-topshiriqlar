@@ -1,7 +1,3 @@
-yigindi = 0
-while True:
-    son = int(input())
-    if son == 0:
-        break
-    yigindi += son
-print(yigindi)    
+s = 0
+while (n := int(input())) != 0: s += n 
+print(s)
