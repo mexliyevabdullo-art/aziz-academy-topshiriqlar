@@ -1,12 +1,12 @@
 a = int(input())
 b = int(input())
 c = int(input())
-if a + b > c and a + c > b and b + c > a:
+if a + b > c and a + c > b and b  +c > a:
     if a == b == c:
-        print("Teng tomonli")
-    elif a == b or a == c or b == c:
-        print("Teng yonli")
+        print('Teng tomonli')
+    elif a == b or b == c or a == c:
+        print('Teng yonli')
     else:
-        print("Turli tomonli")
+        print('Turli yonli')
 else:        
-    print("Uchburchak emas")
+    print('Uchburchak emas')
