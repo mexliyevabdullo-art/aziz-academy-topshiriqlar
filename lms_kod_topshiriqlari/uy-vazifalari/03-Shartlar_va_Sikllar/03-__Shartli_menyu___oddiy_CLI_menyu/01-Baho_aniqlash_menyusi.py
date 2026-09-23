@@ -13,6 +13,8 @@ if menyu == 1:
         print("F")
 elif menyu == 2:
     if ball >= 60:
-        print("O'tadi")
+        print("O'tdi")
     else:
         print("Yiqildi")
+else:
+    print("Notogri tanlov")        
