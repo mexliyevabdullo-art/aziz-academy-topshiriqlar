@@ -1,20 +1,6 @@
-transport = int(input())
-toifa = int(input())
-if transport == 1:
-    narx = 1700
-elif transport == 2:
-    narx = 1700
-elif transport == 3:
-    narx = 4000
+t, k = int(input()), int(input())
+if t not in [1, 2, 3]: print("Notohgri transport")
+elif k not in [1, 2, 3]: print("Notogri toifa")
 else:
-    narx = None
-    print("Notogri transport")
-if narx is not None:
-    if toifa == 1:
-        print(narx)
-    elif toifa == 2:
-        print(narx // 2)
-    elif toifa == 3:
-        print(0)
-    else:
-        print("Notogri toifa")
+    p = 4000 if t == 3 else 1700
+    print(0 if k == 3 else p // 2 if k == 2 else p)
