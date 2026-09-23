@@ -1,16 +1,2 @@
-amal = int(input())
-balans = int(input())
-summa = int(input())
-if amal == 1:
-    print(balans)
-elif amal == 2:
-    if summa <= balans:
-        yangi_balans = balans - summa
-        print(yangi_balans)
-    else:
-        print("Mablag' yetarli emas")
-elif amal == 3:
-    yangi_balans = balans + summa 
-    print(yangi_balans)
-else:
-    print("Notogri amal")
+a, b, c = int(input()), int(input()), int(input())
+print(b if a==1 else (b-c if b>=c else "Mablag' yetarli emas") if a==2 else b+c if a==3 else "Notogri amal")
