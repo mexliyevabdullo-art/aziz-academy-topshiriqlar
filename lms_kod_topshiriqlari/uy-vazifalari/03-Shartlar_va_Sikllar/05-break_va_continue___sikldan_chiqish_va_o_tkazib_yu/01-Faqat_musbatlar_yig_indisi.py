@@ -1,10 +1,10 @@
 n = int(input())
 yigindi = 0
-i = 0
-while i < n:
+sanoq = 0
+while sanoq < n:
     son = int(input())
-    i += 1
+    sanoq += 1
     if son <= 0:
         continue
-    yigindi += son 
+    yigindi += son
 print(yigindi)    
