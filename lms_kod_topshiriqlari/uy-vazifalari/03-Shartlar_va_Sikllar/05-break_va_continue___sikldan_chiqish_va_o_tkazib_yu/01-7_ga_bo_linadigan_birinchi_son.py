@@ -1,10 +1,10 @@
 n = int(input())
-birinchi_son = None
+topildi = False
 for _ in range(n):
     son = int(input())
-    if son % 7 == 0 and birinchi_son is None:
-        birinchi_son = son
-if birinchi_son is not None:
-    print(birinchi_son)
-else:
+    if not topildi and son % 7 == 0:
+        print(son)
+        topildi = True
+        break
+if not topildi:
     print("yo'q")
